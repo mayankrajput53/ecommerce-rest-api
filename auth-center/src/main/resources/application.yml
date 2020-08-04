@@ -1,0 +1,4 @@
+server:
+  port: 8081
+
+com.security.jwt.secret: otherpeopledontknowit
